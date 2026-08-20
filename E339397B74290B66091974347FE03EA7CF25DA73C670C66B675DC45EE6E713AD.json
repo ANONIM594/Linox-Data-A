@@ -4,7 +4,7 @@
                         "Key": "014F-3BD9-5554-2216-5486-9465-AA38-D262-5AB9-4E97-162B-C4B4-CB36-8B79-45D4-6786-72AA-020E-B3B8-C7B8-0045-5977-0BA8-2657-9905-B0C2-FB7E-523A-077D-FBDE-97BE-8DB1-3190-8441-F617-E35D-D568-6BAB-B6ED-696A-4172-07E1-6B4F-BC25-D350-04AD-5768-A260-C1C4-946B-0B53-3003-80CD-5B82-E09E-DC1B-00C3-7446-5AB9-8809-63FA-71C5-6CD6-AEFC",
                         "Estado": "valida",
                         "Expiracion": "PERMANENTE",
-                        "FechaCreacion": "2026-08-20 12:14:52",
+                        "FechaCreacion": "2026-08-20 12:16:22",
                         "LoopFpsMs": 100,
                         "CheckNubeSecs": 5,
                         "VersionTarget": "2.1",
@@ -23,5 +23,5 @@
                         "HabilitarMod3": false,
                         "UsarMemoriaFps": true,
                         "MemoriaFpsOverlayMs": 10,
-                        "MemoriaFpsAutoRegMs": 300
+                        "MemoriaFpsAutoRegMs": 500
                     }
