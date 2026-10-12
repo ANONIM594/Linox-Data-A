@@ -7,7 +7,7 @@
                         "FechaCreacion": "2026-08-25 09:48:29",
                         "LoopFpsMs": 100,
                         "CheckNubeSecs": 30,
-                        "VersionTarget": "1.0",
+                        "VersionTarget": "2.6",
                         "ForzarValoresAbsolutos": false,
                         "RestablecerLocales": false,
                         "NubeTargetFps": null,

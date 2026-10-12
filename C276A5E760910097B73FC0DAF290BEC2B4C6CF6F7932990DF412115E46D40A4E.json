@@ -9,7 +9,7 @@
                         "BanFechaEfectiva": "2026-08-23T09:28:42.2411718Z",
                         "LoopFpsMs": 100,
                         "CheckNubeSecs": 30,
-                        "VersionTarget": "2.1",
+                        "VersionTarget": "2.6",
                         "ForzarValoresAbsolutos": false,
                         "RestablecerLocales": false,
                         "NubeTargetFps": null,

@@ -9,7 +9,7 @@
                         "PayloadFirmadoBase64": "",
                         "LoopFpsMs": 100,
                         "CheckNubeSecs": 15,
-                        "VersionTarget": "2.5",
+                        "VersionTarget": "2.6",
                         "ForzarValoresAbsolutos": false,
                         "RestablecerLocales": false,
                         "NubeTargetFps": null,
