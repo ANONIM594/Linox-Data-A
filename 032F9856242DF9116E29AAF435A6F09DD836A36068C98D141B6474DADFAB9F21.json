@@ -9,7 +9,7 @@
                         "PayloadFirmadoBase64": "",
                         "LoopFpsMs": 100,
                         "CheckNubeSecs": 15,
-                        "VersionTarget": "2.6",
+                        "VersionTarget": "2.7",
                         "ForzarValoresAbsolutos": false,
                         "RestablecerLocales": false,
                         "NubeTargetFps": null,
@@ -25,5 +25,6 @@
                         "HabilitarMod3": true,
                         "UsarMemoriaFps": true,
                         "MemoriaFpsOverlayMs": 10,
-                        "MemoriaFpsAutoRegMs": 10
+                        "MemoriaFpsAutoRegMs": 10,
+                        "ModoOptimizacion": "REGULAR"
                     }
