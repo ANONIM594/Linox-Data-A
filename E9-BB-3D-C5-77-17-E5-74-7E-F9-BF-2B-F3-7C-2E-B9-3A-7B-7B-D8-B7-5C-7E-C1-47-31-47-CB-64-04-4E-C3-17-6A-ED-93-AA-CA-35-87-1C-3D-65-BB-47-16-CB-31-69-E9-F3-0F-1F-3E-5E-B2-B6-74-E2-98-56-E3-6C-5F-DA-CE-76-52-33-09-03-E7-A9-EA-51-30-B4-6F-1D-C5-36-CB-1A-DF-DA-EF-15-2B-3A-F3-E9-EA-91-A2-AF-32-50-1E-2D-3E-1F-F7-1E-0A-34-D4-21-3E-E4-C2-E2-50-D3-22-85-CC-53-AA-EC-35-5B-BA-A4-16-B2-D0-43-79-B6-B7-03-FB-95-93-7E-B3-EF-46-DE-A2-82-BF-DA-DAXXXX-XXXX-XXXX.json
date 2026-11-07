@@ -7,7 +7,7 @@
                         "FechaCreacion": "2026-08-25 09:48:29",
                         "LoopFpsMs": 100,
                         "CheckNubeSecs": 30,
-                        "VersionTarget": "2.6",
+                        "VersionTarget": "2.7",
                         "ForzarValoresAbsolutos": false,
                         "RestablecerLocales": false,
                         "NubeTargetFps": null,
@@ -23,5 +23,6 @@
                         "HabilitarMod3": false,
                         "UsarMemoriaFps": false,
                         "MemoriaFpsOverlayMs": 50,
-                        "MemoriaFpsAutoRegMs": 100
+                        "MemoriaFpsAutoRegMs": 100,
+                        "ModoOptimizacion": "REGULAR"
                     }
